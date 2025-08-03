@@ -1,0 +1,6 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore dataset (optional — only if you don’t want to upload it)
+finance_data.csv
