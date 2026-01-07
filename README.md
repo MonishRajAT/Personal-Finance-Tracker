@@ -1,23 +1,23 @@
-# 💰 Personal Finance Tracker
+💰 Personal Finance Tracker (Streamlit Web App)
 
-A simple terminal-based finance tracker in Python that allows users to add income/expenses, view transaction summaries, and visualize them using plots.
+A modern web-based personal finance tracking application built using Python and Streamlit.
+This app allows users to record, analyze, and visualize income and expenses with monthly insights through an interactive dashboard.
 
-## 🚀 Features
-- Add transactions with category (Income/Expense)
-- View filtered summary between date ranges
-- Plot income vs expenses using Matplotlib
-- Stores data in a CSV file
+🚀 Features
 
-## 🛠️ Technologies Used
-- Python 
-- Pandas
-- Matplotlib
-- CSV module
+➕ Add income and expense transactions
+📄 View transactions within a selected date range
+📊 Monthly financial analysis using dropdown selection
+📈 Income vs Expense visualization
+📌 Automatic summary (Income, Expense, Savings)
+💾 Persistent CSV-based data storage
+🖥️ User-friendly Streamlit web interface
 
-## Getting Started
-Clone the project and run the script:
 
-```bash
-git clone https://github.com/MonishRajAT/Personal-Finance-Tracker.git
-cd Personal-Finance-Tracker
-python main.py
+🛠️ Technologies Used
+1. Python
+2. Streamlit
+3. Pandas
+4. Matplotlib
+5. CSV (File-based storage)
+
